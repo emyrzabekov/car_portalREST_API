@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'car_portal',
-    'rest_auth',
 ]
 
 MIDDLEWARE = [
